@@ -1,0 +1,37 @@
+MEDICAL SERVICES PORTAL
+
+Link to Portal
+
+Languages Available:
+
+English
+Kiswahili
+System Modules:
+
+Authorisation Request: Automatic system authorisation following the submission of WCF Notification number.
+Prior Approval: Request and know the status of services that require prior approval.
+Reconciliation: Manage bill reconciliations in one window for easier follow up.
+Integration API: You can integrate your existing hospital functionalities with this portal.
+Get Started:
+
+Login
+Register
+Contact Us:
+
+Director General,
+Workers Compensation Fund,
+Post code 41101, 3rd Floor, Kambarage House,
+P.O Box 329,
+DODOMA.
+Working Hours: 8:00 am - 5:00 pm
+
+Important Websites:
+
+WCF Website
+Employer portal
+Claim Review
+Claim Follow up
+Help Desk & Support:
+
+Email: helpdesk@wcf.go.tz
+Phone: 0800110028 or 0800110029

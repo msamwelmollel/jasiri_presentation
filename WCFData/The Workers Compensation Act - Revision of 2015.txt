@@ -1,0 +1,1258 @@
+**THE UNITED REPUBLIC OF TANZANIA**
+
+**CHAPTER 263**
+
+**THE WORKERS' COMPENSATION ACT**
+
+**[PRINCIPAL LEGISLATION]**
+
+**REVISED EDITION OF 2015**
+
+**This Edition of the Workers' Compensation Act, Chapter 263, incorporates all amendments made up to and including 31st December, 2015 and is printed under the authority of section 4 of the Laws Revision Act, Chapter 4.**
+
+**Dar es Salaam,  
+31st March, 2016**
+
+**GEORGE M. MASAJU,  
+Attorney General**
+
+---
+
+**Workers' Compensation Act [CAP. 263 R.E. 2015]**
+
+**CAP. 263**
+
+**THE WORKERS' COMPENSATION ACT**
+
+**ARRANGEMENT OF SECTIONS**
+
+**PART I**  
+**PRELIMINARY PROVISIONS**
+
+**Section Title**  
+1. Short title and commencement.  
+2. Application.  
+3. Objectives of the Act.  
+4. Interpretation.
+
+---
+
+**PART II**  
+**WORKERS COMPENSATION FUND**
+
+5. Establishment of the Workers Compensation Fund.  
+6. Appointment of the Director-General, administration and management of the fund.  
+7. Function of the Director- General.  
+8. Authorized persons.  
+9. Appointment of assessors.  
+10. Appointment of medical advisory panels.  
+11. Delegation of powers and assignment of duties by the Director-General.
+
+---
+
+**PART III**  
+**BOARD OF TRUSTEES OF THE WORKERS COMPENSATION FUND**
+
+12. Establishment of the Board.  
+13. Function of the Board.  
+14. Powers of the Board.  
+15. Fiduciary duties of the Board.  
+16. General duties of the Board.  
+17. Board may establish and subsidize organizations.  
+18. Delegation of powers and functions by the Board.
+
+---
+
+**PART IV**  
+**RIGHT TO COMPENSATION AND PROTECTION**
+
+19. Right to compensation for occupational injury.  
+20. Accidents during conveyance by employer.  
+21. Accidents during training for or performance of emergency services.  
+22. Right to compensation for occupational diseases.  
+23. Presumption for cause of occupational disease.  
+24. Accidents or diseases contracted outside Tanzania.  
+25. Accidents or diseases contracted in Tanzania.  
+26. Refusal to pay compensation.  
+27. Compensation may not be alienated or reduced.  
+28. Cession or relinquishing of compensation.  
+29. Compensation not to form part of employees' estate.  
+30. Civil liability of employer and third party not limited.  
+31. Recovery of compensation from employers and third parties.  
+32. Threats and compulsion prohibited.
+
+---
+
+**PART V**  
+**CLAIMS FOR COMPENSATION**
+
+33. Notice of accident by employee to employer.  
+34. Notice of accident by employer to the Director-General.  
+35. Notice of occupational disease by employee and employer.  
+36. Inquiry by the Director-General into accident.  
+37. Particulars in support of claim.  
+38. Employee to submit to medical examination.  
+39. Claim for compensation.  
+40. Prescription of claim for compensation.  
+41. Consideration of claim by the Director-General.  
+42. Appearance of parties at formal hearing.  
+43. Powers of the Director-General regarding witnesses.  
+44. Power to administer oath.  
+45. Offences by witnesses, etc.
+
+---
+
+**PART VI**  
+**DETERMINATION OF COMPENSATION**
+
+46. Compensation for temporary total or partial disablement.  
+47. Expiry of compensation for temporary total or partial disablement.  
+48. Compensation for permanent disablement.  
+49. Payment of lump sum in lieu of pension.  
+50. Compensation to an employee who has previously received compensation.  
+51. Constant Attendant care grants.  
+52. Dependents' grants if an employee dies.  
+53. Funeral grants.  
+54. Increase of monthly pensions.  
+55. Advances on compensation.  
+56. Control over payment of compensation.  
+57. Pensioner resident outside Tanzania.  
+58. Manner of calculating earnings.  
+59. Calculation of compensation for occupational disease.  
+60. Deductions from employees prohibited.
+
+---
+
+**PART VII**  
+**MEDICAL AID AND REHABILITATION BENEFITS**
+
+61. Conveyance of injured employee.  
+62. Medical aid costs.  
+63. Submission of medical report.  
+64. Director-General to decide on medical aid benefits.  
+65. Fees for medical aid.  
+66. Contributions by employees towards cost of medical aid prohibited.  
+67. Medical aid provided by employer.  
+68. Director-General may consult representatives of medical authorities and associations.  
+69. Director-General to provide rehabilitation.  
+70. Director-General may require assessments and rehabilitation plans.
+
+---
+
+**PART VIII**  
+**OBLIGATIONS OF EMPLOYERS**
+
+71. Employers to register with the Director-General.  
+72. Employers to keep records.  
+73. Employers to furnish returns of earnings.  
+74. Assessment of an employer.  
+75. Assessment to be paid by an employer to the Director-General.  
+76. Mandators and contractors.  
+77. Employers or Trade Unions to inform employees of their rights.  
+78. Employers to assist employees.
+
+---
+
+**PART IX**  
+**DISPUTES SETTLEMENT**
+
+79. Director-General may review decisions.  
+80. Appeal against decisions of the Director-General and the Minister.
+
+---
+
+**PART X**  
+**FINANCIAL PROVISIONS**
+
+81. Application of funds.  
+82. Bank accounts of the Fund.  
+83. Investment of funds.  
+84. Annual budget of the Fund.  
+85. Annual report and financial statements of the Fund.  
+86. Periodic valuation of the Fund.  
+87. Auditing.
+
+---
+
+**PART XI**  
+**GENERAL PROVISIONS**
+
+88. Reasons for decisions.  
+89. Evidence.  
+90. Compensation payable to assessors, etc.
+
+---
+
+**PART XII**  
+**MISCELLANEOUS PROVISIONS**
+
+91. Access to information.  
+92. Disclosure of information.  
+93. Amendment of schedules.  
+94. Regulations.  
+95. False statements.  
+96. Penalties.  
+97. Compounding of offences.  
+98. Repeal and savings.
+
+---
+
+**SCHEDULES**
+
+---
+
+**CHAPTER 263**
+
+**THE WORKERS' COMPENSATION ACT**
+
+**An Act to provide for compensation to employees for disablement or death caused by or resulting from injuries or diseases sustained or contracted in the course of employment; to establish the Fund for administration and regulation of workers' compensation and to provide for related matters.**
+
+**Act No. 20 of 2008**
+
+---
+
+**Short title and commencement**
+
+1.-(1) This Act may be cited as the Workers' Compensation Act.  
+(2) Notwithstanding subsection (1), the Minister may appoint different dates of commencement for different Parts or provisions of this Act.
+
+---
+
+**Application**
+
+2.-(1) This Act shall apply to Mainland Tanzania.  
+(2) Subject to subsection (1), this Act shall apply to-  
+(a) all employers and employees including those in the public service of the Government of Tanzania in Mainland Tanzania;  
+(b) employees while:  
+(i) employed in any capacity on a Tanzanian ship or aircraft;  
+(ii) subject to section 25(1), employed outside Tanzania on any other ship or aircraft; and  
+(c) employees who, subject to section 24, are injured in occupational accidents or contract occupational diseases while employed outside Tanzania.
+
+(3) Notwithstanding any other written law, any compensation scheme existing at, or established after the commencement of this Act shall award compensation not below the minimum compensation rate set out in accordance with this Act.
+
+---
+
+**Objectives of the Act**
+
+3. The objectives of this Act shall be to-  
+(a) provide for adequate and equitable compensation for employees who suffer occupational injuries or contract occupational diseases arising out of, and in the course of their employment, and in the case of death, for their dependants;  
+(b) provide for the rehabilitation of employees who have suffered occupational injuries or contracted occupational diseases in order to assist in restoring their health, independence and participation in society;  
+(c) provide for a framework for the effective, prompt and empathetic consideration, settlement and payment of compensation benefits to employees and their dependants;  
+(d) provide for the establishment, control and administration of the workers compensation fund, and the legal framework for contributions to and payments from the Fund;  
+(e) give effect to the international obligations with respect to workers' compensation; and  
+(f) promote prevention of occupational accidents and occupational diseases.
+
+---
+
+**Interpretation**
+
+4. In this Act, unless the context otherwise requires-  
+"accident" means an accident arising out of and in the course of an employee's employment and resulting in a person injury, illness or death of the employee;  
+"actuary" means any actuary approved by the Board in accordance with section 86(1);  
+"annual earnings" means-  
+(a) the amount referred to in section 73(1)(a) if accepted by the Director-General as correct;  
+(b) the amount determined by the Director-General if he believes that the amount referred to in paragraph (a) is less than the amount actually paid; or  
+(c) the estimated amount referred to in section 73(5) or (6);  
+"assessor" means an assessor appointed under section 9;  
+"authorized person" means an authorized person appointed under section 8;  
+"Board" means the Board of Trustees of the Workers Compensation Fund established under section 12;  
+"business" means any industry, undertaking, trade, occupation or any activity in which an employee is employed;  
+"contractor" means any person engaged or contracted as
+
+ such by an employer to perform independently any task for and on behalf of the employer;  
+"dependent of an employee" means any of the following person who at the time of the death of the employee was wholly or partly financially dependent upon the employee-  
+(a) a spouse, who at the time of the death of the employee was married to the employee according to the law of marriage;  
+(b) if there is no spouse referred to in paragraph (a), a person with whom the employee was at the time of the employee's death living as husband and wife;  
+(c) a child of the employee or of the employee's spouse, under the age of eighteen years;  
+(d) a child over eighteen years of the employee or the employee's spouse, and a parent or any person who the Director-General believes was acting in the place of a parent, a brother, a sister, a half-brother or half-sister, a grandparent or a grandchild of the employee;  
+"Director-General" means the Director-General of the Fund appointed under section 6;  
+"disablement" means temporary partial disablement, temporary total disablement, permanent total disablement or serious disfigurement, as the case may be;  
+"earnings" means the remuneration of an employee at the time of the accident the commencement of the occupational disease as calculated under this Act;  
+"employee" means-  
+(a) any person, including an apprentice but excluding an independent contractor, who works for another person or for the state and who receives, or is entitled to receive, any remuneration; and  
+(b) any other person who in any manner assists in carrying on or conducting the business of an employer;  
+"employer" means any person, including the Government and an executive Agency, who employs an employee;  
+"employers' organization" has the meaning ascribed to it under the Employment and Labour Relations Act;  
+"formal hearing" means a hearing between the parties in a workers' compensation formally brought under the provision of this Act presided over by the Director-General for the purpose of solving differences, disagreement, and the like in order to provide appropriate compensation benefits to a claimant;  
+"Fund" means the Workers Compensation Fund established under section 5;  
+"Labour Court" means the Labour Division of the High Court established under the Labour Institutions Act;  
+"mandatory" means a person engaged or subcontracted as such by a contractor to perform any task in part or in whole for and on behalf of the contractor under his supervisions;  
+"medical aid" means medical, surgical or hospital treatment, skilled nursing services, any remedial treatment approved by the Director-General, the supply and repair of any prosthesis or any device necessitated by disablement, and ambulance services;  
+"medical practitioner" has the meaning ascribed to it under the Medical Practitioner and Dentists Act;  
+"Minister" means the Minister responsible for labour;  
+"occupational disease" means any disease referred to in section 22;  
+"occupational injury" means a personal injury sustained as a result of an accident;  
+"periodical payment" means a periodical payment of compensation in respect of temporary disablement;  
+"permanent disablement" in relation to an employee means the permanent inability of the employee to perform any work as a result of an accident or occupational disease for which compensation is payable;  
+"person under disability" means a minor, a lunatic or any person who by law is subject to curatorship or tutorship;  
+"serious and willful misconduct" means-  
+(a) being under the influence of intoxicating liquor or a drug having a narcotic effect;  
+(b) a contravention of any law for the protection of the health of employees or for the prevention of accidents, if the contravention was committed willfully or with a reckless disregard of the provisions of the law; or  
+(c) any other kind or form of willful conduct that is likely to cause disablement to a person;  
+"Tanzanian aircraft" means an aircraft registered or licensed in Tanzania under the laws governing the registration or licensing of aircraft;  
+"Tanzanian ship" means a vessel used in navigation which-  
+(a) is registered in Tanzania under the laws governing the registration of ships and is not registered in any other state under similar laws; or  
+(b) is owned or chartered by a person whose head office or place of business is in Tanzania or by a person who resides in Tanzania;  
+"temporary partial disablement" means the temporary partial inability of the employee to-  
+(a) perform the whole of the work at which the employee was employed at the time of the accident or occupational disease; or  
+(b) resume work at a rate of earnings not less than that which the employee was receiving at the time of the accident or occupational disease, as a result of an accident or occupational disease for which compensation is payable;  
+"temporary total disablement" means the temporary total inability of the employee to perform-  
+(a) the work at which the employee was employed at the time of the accident or at the time of contracting the occupational disease; or  
+(b) a work similar to that work, as a result of an accident or occupational disease for which compensation is payable;  
+"trade union" has the meaning ascribed to it under the Employment and Labour Relations Act.
+
+---
+
+**Establishment of the Workers Compensation Fund**
+
+5.-(1) There is established a Fund to be known as the Workers Compensation Fund.  
+(2) The funds of the Fund shall consist of-  
+(a) the assessments paid by the employers under this Act;  
+(b) any other moneys paid by employers to the Fund under this Act;  
+(c) any penalty imposed under this Act, other than by a court;  
+(d) any interest on investments of the Fund;  
+(e) any subvention from the Government; and  
+(f) any other monies legally acquired.
+
+---
+
+**Appointment of the Director-General, administration and management of the Fund**
+
+6.-(1) There shall be a Director-General appointed by the President from amongst three qualified persons of high integrity and who possess knowledge and experience in labour issues, insurance, social security or workers compensation matters recommended by the Minister.  
+(2) The Minister shall by regulation prescribe the manner and procedure of getting the three persons to be recommended to the President under subsection (1).  
+(3) The Director-General shall be the Chief Executive Officer of the Fund and shall be responsible for daily activities of the Fund.  
+(4) The administration and management of the Fund shall vest in the Board.  
+(5) The Board shall determine the remuneration and the terms and conditions of employment of the Director-General.
+
+---
+
+**Functions of the Director-General**
+
+7.-(1) Subject to the provisions of this Act, the Director-General shall-  
+(a) inquire into accidents and occupational diseases;  
+(b) Receive notices of accidents and occupational diseases, claims for compensation, medical reports and accounts, objections applications, returns of earnings and payments due to the Fund;  
+(c) by notice in the Gazette, prescribe the forms to be used and the particulars to be furnished in connection with a notice of occupational injuries and diseases, claims for compensation or any other form or matter which he may deem necessary for the administration of this Act.  
+(d) adjudicate on claims and other matters coming before the Director-General for decision;  
+(e) issue an order for the payment of compensation in respect of an award made by the Director-General;  
+(f) decide whether a person in an employee, employer, a mandatory or a contractor for the purposes of this Act;  
+(g) decide any issue relating to-  
+(i) a right to compensation;  
+(ii) the submission, consideration and adjudication of claims for compensation;  
+(iii) the calculation of earnings;  
+(iv) the degree of disablement of any employee;  
+(v) the amount and manner of payment of compensation;  
+(vi) the award, withholding, review, discontinuance, suspension, increase or reduction of compensation; and  
+(vii) the liability for payment of compensation for temporary total or partial disablement;  
+(h) decide whether a person is a dependant of an employee and, if so, the percentage of dependence, and, in the case where there is more than one dependant who shall receive compensation and the allocation of compensation among them;  
+(i) decide upon-  
+(i) the need for, and the nature and sufficiency of medical aid;  
+(ii) the reasonableness of the cost of medical aid, and the amount and manner of payment of such cost;  
+(j) decide upon the liability for assessment, tariffs of assessment, the amount of assessments, the manner of payment of assessment and related matters;  
+(k) decide upon any other issue falling within the functions of the Director-General in connection with the administration of this Act;  
+(l) administer the Fund subject to the directions of the Board;  
+(m) recover amounts due to the Fund, including amounts which should not have been paid out or with the approval of the Board write off such amounts if, in his opinion, they cannot be recovered;  
+(n) record statistics and information regarding the occurrence and causes of accidents and occupational diseases, and the award of benefits under this Act; and  
+(o) institute such inquiries and perform such other functions as may be prescribed, or as he may deem necessary for the administration of this Act.  
+(2) The Director-General shall seek direction or approval of the Board in determining or reviewing the amount of award to compensation, appointment of member of a medical advisory panel and assessors.
+
+---
+
+**Authorized persons**
+
+8.-(1) The Director-General may authorize any assessor, employee of the Fund or any medical practitioner to investigate any matter that he may deem necessary for the performance of his functions under this Act.  
+(2) A person authorized under subsection (1) shall be furnished with a certificate to that effect signed by the Director-General.  
+(3) An authorized person may-  
+(a) at
+
+ any reasonable time, with prior notice enter any premises, and may be accompanied by an interpreter or other assistant or a police officer;  
+(b) while the authorized person is on the premises, or at any time thereafter, question any person who is or was on the premises, either alone or in the presence of any other person on any matter to which this Act relates;  
+(c) order any person who has control over or custody of any book, document or thing on or in those premises to produce without delay, or at such time and place as may be determined by the authorized person, such book, document or thing;  
+(d) at any time and place order any person who has the possession or custody of or is in the control of a book, document or thing relating to the business of an employer or previous employer, to produce without delay or at such time and place as may be determined by the authorized person, such book, document or thing;  
+(e) seize any book, document or thing which in the opinion of the authorized person may serve as evidence in any matter under this Act;  
+(f) examine or cause to be examined, make extracts from or copies of any book, document or thing produced to or seized by the authorized person and order any person who, in the opinion of the authorized person, is qualified to do so to explain any entry in the book, document or thing;  
+(g) order an employee to appear before the authorized person at such time and place as may be determined by the authorized person, and question the employee.  
+(4) An authorized person performing any function under this section shall, on demand, produce the certificate referred to in subsection (2).  
+(5) Any person commits an offence if he-  
+(a) pretends to be an authorized person;  
+(b) refuses or without reasonable cause or excuse fails to answer full and satisfactorily any question put to that person by an authorized person in the performance of his functions;  
+(c) refuses or fails to comply with any lawful request or order by an authorized person; or  
+(d) hinders or obstructs an authorized person in the performance of his functions.
+
+---
+
+**Appointment of assessors**
+
+9.-(1) The Director-General may appoint such number of persons as assessors as he may deem necessary in order to assist in the performance of his functions under this Act.  
+(2) The assessors referred to in subsection (1) shall be persons who are suitably qualified and experienced and may include medical practitioners.  
+(3) An assessor shall be appointed for such period and on such conditions as the Director-General may determine, but he may, at any time, terminate the appointment of an assessor who-  
+(a) has been guilty of misconduct or neglect of duty; or  
+(b) is not able to perform properly the functions of an assessor under this Act.  
+(4) An assessor shall be paid the prescribed remuneration and traveling and subsistence allowances out of the Fund.
+
+---
+
+**Appointment of medical advisory panels**
+
+10.-(1) The Director-General may appoint medical advisory panels which shall consist of such members as he may deem necessary to-  
+(a) assist the Director-General with regard to the diagnosis of occupational diseases in individual cases;  
+(b) advise the Director-General and the Board regarding the inclusion of occupational diseases set out in the Third Schedule to this Act; or  
+(c) advise the Director-General and the Board regarding general policy concerning the diagnosis of, and disablement as a result of occupational diseases.  
+(2) The Director-General shall appoint a member of a medical advisory panel as Chairman of the panel.  
+(3) The members of medical advisory panels shall be appointed by the Director-General for such period and on such conditions and such allowances as he may determine but he may at any time terminate the appointment of any member who-  
+(a) is guilty of misconduct or neglect of duty; or  
+(b) is not able to perform properly the functions of a member of a medical advisory panel as provided under this Act.
+
+---
+
+**Delegation of powers and assignment of duties by the Director-General**
+
+11.-(1) The Director-General may delegate any powers or assign any duties to an employee of the Fund and may at any time cancel any such delegation or assignment.  
+(2) A delegation or assignment under subsection (1) shall-  
+(a) be subject to such conditions as the Director-General may determine;  
+(b) not divest the Director-General of the power delegated or duty assigned, and he may at any time amend or set aside any decision made under the delegation or assignment; and  
+(c) not prevent the exercise of the power or the performance of the duty concerned by the Director-General.
+
+---
+
+**Establishment of the Board**
+
+12.-(1) There is established a Board to be known as the Board of Trustees of the Workers Compensation Fund.  
+(2) The Board shall in its Corporate name be capable of-  
+(a) suing and being sued;  
+(b) purchasing or otherwise acquiring, holding, charging and disposing of property, movable or immovable; and  
+(c) entering into contracts and performing all such other acts for the proper performance of its functions under this Act which may lawfully be performed by a body corporate.  
+(3) The provisions of the First Schedule to this Act shall have effect as to the composition of the Board, the appointment and termination of appointment of its members, the proceedings of the Board and such other matters in relation to the Board and members.
+
+---
+
+**Function of the Board**
+
+13. The Board shall, subject to any other applicable written law-  
+(a) control and administer the Fund;  
+(b) formulate, implement and review policy relating to workers compensation in accordance with this Act;  
+(c) advise the Minister on-  
+(i) any matter relating to workers compensation;  
+(ii) any amendments to this Act or any other related law;  
+(iii) any Regulations made under this Act;  
+(d) invest surplus monies of the Fund;  
+(e) provide technical assistance and advisory services for the purpose of promoting workers compensation;  
+(f) promote occupational safety and health measures in collaboration with the Occupational Safety and Health Authority and other relevant authorities;  
+(g) promote public awareness of the rights and obligations of employees, dependants and employers under this Act;  
+(h) provide an accessible and transparent procedure for the lodging and investigation of any complaints regarding the administration of this Act, including the conduct of the Fund and its employees; and  
+(i) do all such acts and enter into all such transactions as, in the opinion of the Board may be necessary for the proper and efficient administration and management of the Fund.
+
+---
+
+**Powers of the Board**
+
+14. The Board shall-  
+(a) cause to be carried out actuarial valuation of the Fund after every three years;  
+(b) appoint and employ upon such terms as it may think fit, consultants, agents and contractors as the Board may deem necessary; and  
+(c) do all such other acts necessary to give effect to the provisions of this Act.
+
+---
+
+**Fiduciary duties of the Board**
+
+15.-(1) The Board shall-  
+(a) exercise the duty of utmost care to ensure reasonable protection of the assets and records of the Fund;  
+(b) act with fidelity, honesty, integrity and in the best interest of the Fund in managing the financial affairs of the Fund.  
+(2) A member of the Board shall not-  
+(a) act in a way that is inconsistent with the responsibilities of the Board under this Act; or  
+(b) use the position or privileges of, or confidential information obtained as a member of the Board, for personal gain or to improperly benefit another person.  
+(3) A member of the Board shall-  
+(a) disclose to the Board any direct or indirect personal or private business interest that the member or any spouse, partner or close family member may have in any matter before the Board; and  
+(b) withdraw from the proceedings of the Board, when the matter mentioned in paragraph (a) is considered, unless the Board decides that the member's direct or indirect interest in the matter is trivial or irrelevant.
+
+---
+
+**General duties of the Board**
+
+16.-(1) The Board shall ensure that it has and maintains a regular review system of administration for benefits of its members in a manner that ensures adequate and equitable compensation in accordance with the objectives and purpose of this Act.  
+(2) The Board shall take effective and appropriate steps to-  
+(a) collect all revenue due to the Fund;  
+(b) prevent irregular expenditure, fruitless and wasteful expenditure, losses resulting from criminal conduct, and expenditure not complying with the operational policies of the Fund; and  
+(c) establish, maintain and review system of administration of the benefits and to monitor in a manner that ensures adequate and equitable compensation in accordance with the objects of this Act.  
+(3) The Board shall be responsible for the management, including the safeguarding of the assets, management of the revenue, expenditure and liabilities of the Fund.  
+(4) The Board shall take effective and appropriate disciplinary steps against any employee of the Fund who-  
+(a) contravenes or fails to comply with the provisions of this Act;  
+(b) commits an act which undermines the financial management and internal control system of the Fund; or  
+(c) makes or commits funds towards an irregular expenditure or a fruitless and wasteful expenditure.
+
+---
+
+**Board may establish and subsidize organizations**
+
+17.-(1) The Board may establish an organization or scheme or recognize and subsidize any existing organization or scheme whose objectives shall include one or more of the following-  
+(a) the prevention of occupational accidents or of any occupational disease which is due to the nature of a particular activity;  
+(b) the promotion of health or safety of employees, including health and safety research or training;  
+(c) the promotion of rehabilitation of injured employees suffering from occupational diseases;  
+(d) the provision of facilities designed to assist injured employees and employees suffering from occupational diseases to return to their work or to reduce or remove any disability resulting from their injuries
+
+ or disease; or  
+(e) the promotion of the general welfare of injured employees or employees suffering from occupational diseases.  
+(2) The Board may subsidize or assist in the funding of the organization or scheme established pursuant to subsection (1).
+
+---
+
+**Delegation of powers and functions by the Board**
+
+18.-(1) The Board may, in writing and subject to such conditions as it may determine, delegate any of its powers, functions or duties to the Director-General or an employee of the Fund, and may at any time revoke such delegation.  
+(2) A delegation under subsection (1) shall not-  
+(a) divest the Board's power, function or duty delegated, and the Board may at any time amend or set aside any decision made under the delegation; and  
+(b) prevent the exercise of the power or the performance of the function or duty concerned by the Board itself.  
+(3) The Board shall not delegate-  
+(a) its power to delegate;  
+(b) the power to approve the annual budget or any supplementary budget of receipts and expenditure, the annual balance sheet or any statement of account.
+
+---
+
+**Right to compensation for occupational injury**
+
+19.-(1) Where an employee has an accident resulting in the employee's disablement or death, the employee or the dependants of the employee shall, subject to the provisions of this Act, be entitled to the compensation provided under this Act.  
+(2) Where an accident is attributable to the serious or willful misconduct of the employee, no compensation shall be payable unless-  
+(a) the accident results in permanent total disablement;  
+(b) the employee dies as a result of the accident leaving a dependant wholly financially dependent upon the employee.  
+(3) Notwithstanding subsection (2), the Director-General may, on behalf of the Fund, pay the whole or any portion of the cost of medical aid in respect of such accident.  
+(4) Where the Director-General believes that an employee at the time of an accident was acting for the purposes, or in the interests of, or in connection with the business of an employer, the accident shall, for the purposes of this Act, be deemed to have arisen out of, and in the course of employment of the employee, notwithstanding that the employee was at the time of the accident-  
+(a) acting contrary to any law applicable to the employee's employment or to any instruction given by or on behalf of the employer; or  
+(b) the employee was acting without any instruction of the employer.  
+(5) For the purpose of this section "serious disablement" means disablement which may render the employee incapable of engaging in his employment or require him to be hospitalized beyond a period of twenty four months.
+
+---
+
+**Accidents during conveyance by employer**
+
+20. Any accident during the conveyance of an employee to or from his place of employment for the purpose of his employment by any means of conveyance shall be deemed to take place in the course of the employee's employment.
+
+---
+
+**Accidents during training for or performance of emergency services**
+
+21. An accident shall, for the purposes of this Act, be deemed to have arisen out of, and in the course of employment if, at the time of the accident, the employee-  
+(a) with the consent of the employer, was being trained in organized first aid, ambulance or rescue work, fire-fighting or any other emergency service;  
+(b) was engaged in the employer's mine, works or premises in organized first aid, ambulance or rescue work, fire-fighting or any other emergency service; or  
+(c) with the consent of the employer, was engaged in any organized first aid, ambulance or rescue work, fire-fighting or other emergency service on any mine, works or premises other than the employer's.
+
+---
+
+**Right to compensation for occupational diseases**
+
+22.-(1) Where an employee contracts a disease set out in the Third Schedule to this Act, or any other disease, and the disease has arisen out of, and in the course of the employee's employment, the employee shall, subject to the provisions of this Act, be entitled to the compensation.  
+(2) Where an employee dies as a result of a disease referred to under subsection (1), the dependants of the employee shall, subject to the provisions of this Act, be entitled to the compensation.  
+(3) Where an employee has contracted a disease referred to in subsection (1) and the Director-General believes that his recovery is being delayed or that the temporary total disablement of the employee is being prolonged by another diseases, the Director-General may approve medical aid for the other disease.  
+(4) Where an employee has contracted a disease referred to in subsection (1) resulting in permanent disablement and the disease is aggravated by another disease, the Director-General may, in determining the degree of permanent disablement, take into account the effect of the other disease.  
+(5) The provisions of this Act shall, with regards to accidents apply, mutatis mutandis, to a disease referred to in subsection (1), except where such provisions are clearly inappropriate.
+
+---
+
+**Presumption for cause of occupational disease**
+
+23. Where an employee who has contracted an occupational disease set out in the Third Schedule to this Act was employed in any work involving the handling of or exposure to any agent mentioned in the Schedule in respect of that disease, it shall be presumed, unless the contrary is proved that the disease arose out of, and in the course of the employee's employment.
+
+---
+
+**Accidents or diseases contracted outside Tanzania**
+
+24.-(1) Where an employer carries on business mainly in Tanzania and his employee who is ordinarily working in Tanzania gets an accident or contracts an occupational disease while temporarily working outside Tanzania, the employee shall be entitled to compensation as if the accident or occupational disease had happened or been contracted, as the case may be, in Tanzania.  
+(2) The amount of compensation referred to in subsection (1) shall be determined on the basis of the earning which the Director-General believes the employee would have received if the employee had remained in Tanzania.  
+(3) Subsection (1) shall not apply, if the employee has been employed outside Tanzania for a continuous period of more than twelve months, unless the Director-General, employee and the employer concerned, otherwise agree.
+
+---
+
+**Accidents or diseases contracted in Tanzania**
+
+25.-(1) Where an employer carried on business mainly outside Tanzania and his employee who is ordinarily working outside Tanzania gets an accident while temporarily or contracts an occupational disease working in Tanzania, the employee shall not be entitled to compensation, unless the employer has paid the necessary assessments in respect of the employee.  
+(2) An employee referred to in subsection (1) who is temporarily working in Tanzania for a continuous period of more than twelve months shall be deemed to be ordinarily employed by the employer in Tanzania.  
+(3) Where an employee entitled to compensation under this Act may lawfully claim for compensation under other laws applicable in another country, that employee shall, by written notice to the Director-General, elect to claim compensation under one law only and not otherwise.  
+(4) Where an employee who is a Tanzanian gets an accident or contracts an occupational disease while working or employed in, on or above the continental shelf, the employee shall be entitled to compensation as if the accident or the occupational disease had happened or been contracted, as the case may be, in Tanzania.
+
+---
+
+**Refusal to pay compensation**
+
+26. The Director-General may refuse to pay the whole or any portion of compensation under this Act or any portion of the cost of medical aid if-  
+(a) the employee at any time knowingly, represented to the employer or the Director-General, false information, or was not then suffering from or had not previously suffered from a serious injury or occupational disease or any other serious disease, and the accident was caused by, or the death or disablement resulted from or was aggravated by such injury or disease; or  
+(b) the Director-General believes that the death, or disablement was caused, prolonged or aggravated, by the unreasonable refusal or willful neglect of the employee to submit to medical aid in respect of any injury or disease, whether caused by the accident or existing before the accident.
+
+---
+
+**Compensation may not be alienated or reduced**
+
+27.-(1) Notwithstanding the provisions of any other written law, compensation shall not be-  
+(a) ceded or pledged;  
+(b) attached in any form of execution under a judgment or order of a court of law; or  
+(c) set off against any debt of the person entitled to the compensation.  
+(2) Notwithstanding subsection (1), the Director-General shall pay compensation accrued to the employee in whole or in part to an employer if the employer has made payments to the employee in respect of disablement arising out of an occupational injury or disease.
+
+---
+
+**Cession or relinquishing of compensation**
+
+28. Any agreement under which an employee cedes or purports to cede or relinquish any right to compensation under this Act shall be void.
+
+---
+
+**Compensation not to form part of employees estate**
+
+29. Any compensation due owing to the death of an employee shall be paid to the dependants of the employee, or to any other person on behalf of the employee, and shall not form part of or become the subject of the employee's estate.
+
+---
+
+**Civil liability of employer and third party not limited**
+
+30.-(1) Nothing in this Act shall limit or in any way affect any civil liability of an employer or any other person in respect of an occupational injury or disease resulting in the disablement or death of an employee if the injury or disease was caused by negligence, breach of statutory duty or any other wrongful act or omission of the employer, or any person for whose act or omission the employer is responsible, or of any other person.  
+(2) Any damage awarded to an employee or dependant of an employee in an action at common law or any other law in respect of the negligence, breach of statutory duty or other wrongful act or omission of the employer
+
+ or any other person, shall be reduced by the value of any compensation which has been paid or is payable by the Fund under this Act in respect of the injury, death or disease.
+
+---
+
+**Recovery of compensation from employers and third parties**
+
+31. Where an occupational injury, death or disease in respect of compensation which is payable under this Act, was caused in circumstances resulting in the employer or any other person being liable for damages in respect of such injury, death or disease, the Director-General may institute a case in a court of law against the employer or such other person for the recovery of compensation that the Director-General is obliged to pay under this Act.
+
+---
+
+**Threats and compulsion prohibited**
+
+32.-(1) No person shall threaten an employee or in any manner compel or influence him to do anything resulting in or directed at the deprivation of his right to compensation under this Act.  
+(2) Any person who contravenes subsection (1) commits an offence.
+
+---
+
+**Notice of accident by employee to employer**
+
+33.-(1) An employee or any person on behalf of the employee shall, as soon as possible after an accident has occurred, give written or verbal notice of the accident to the employer and he may also give notice of the accident to the Director-General in a prescribed form.  
+(2) Failure to give notice to an employer as required in subsection (1) shall not bar a right to compensation if it is proved that the employer had knowledge of the accident from any other source at or about the time of the accident.  
+(3) Subject to section 39, failure to give notice to an employer as required in subsection (1) of this section or any error or inaccuracy in the notice, shall not bar a right to compensation if the Director-General believes that-  
+(a) the Funds is not or would not be seriously prejudiced by the failure, error or inaccuracy if notice is then given or the error or inaccuracy is corrected; and  
+(b) the failure, error or inaccuracy was caused by an oversight, absence from Tanzania or other reasonable cause.  
+(4) Where an employee who is employed in any capacity in an aircraft or on board a ship by the owner or person in command of the ship meets with an accident, the person in command or the owner of the ship or aircraft shall be deemed to be the employer of the employee.
+
+---
+
+**Notice of accident by employer to the Director-General**
+
+34.-(1) Subject to this section, an employer shall, within seven days after receiving a notice of an accident from the employee or having learned in some other way that an accident has occurred, report the accident to the Director-General in a prescribed form.  
+(2) An employer shall, at the request of an employee or the dependant of an employee furnish the employee or dependant with a copy of the notice of the accident furnished by the employer to the Director-General in respect of a claim for compensation by the employee or dependant.  
+(3) Any employer who contravenes this section commits an offence.  
+(4) For the purposes of this section-  
+(a) "an accident" includes any injury reported by an employee to the employer, if the employee when reporting the injury alleges that it arose out of, and in the course of employment, irrespective of whether the employer believes that it did not;  
+(b) "compensation" includes the cost of medical aid and any other amount paid or payable under sections 46, 48, 52, 53 or 61(2) and, in the case of a pension, the capitalized value of the pension as determined by the Director-General, irrespective of whether a lump sum is at any time paid in lieu of the whole or a portion of the pension under section 49 or 57 and periodical payments or allowances, as the case may be.
+
+---
+
+**Notice of occupational disease by employee and employer**
+
+35.-(1) An employee or a trade union, on behalf of the employee, as soon as possible, after the occurrence of an occupational disease shall give a written notice to his employer or to the employer where the employee was last employed.  
+(2) Subject to the provisions of subsection (1), the employee may give a written notice of the disease in the prescribed manner to the Director-General.  
+(3) An employer shall, within seven working days after receiving notice or learning in some other way that an employee has contracted an occupational disease, report the disease in the prescribed manner to the Director-General, irrespective of whether the employer believes that the employee did not contract the disease while in the employment of the employer or in the employment of a previous employer.  
+(4) Any employer who contravenes subsection (3) commits an offence.
+
+---
+
+**Inquiry by the Director-General into accident**
+
+36.-(1) The Director-General shall, after receiving notice of an accident or learning in some other way that an employee has had an accident, make any inquiry which he may deem necessary to decide upon any claim or liability under this Act.  
+(2) Any employee or employer shall, at the request of the Director-General, furnish other particulars regarding the accident, injury, death or disease as the Director-General may require.  
+(3) An employer who fails within a period of twenty-one working days to comply with the provisions of subsection (2) commits an offence.  
+(4) The Director-General may refuse to entertain a claim of any employee who, within a period of six months from the date of such request fails to comply with subsection (2).  
+(5) The Director-General shall, at the request of an employee or employer, furnish any information which the Director-General may deem necessary to enable the employee or employer to comply with the provision of this Act.  
+(6) Where the Director-General fails to furnish information under subsection (5) that information shall have no effect to the employee.
+
+---
+
+**Particulars in support of claim**
+
+37.-(1) An employee who has had an accident shall, when reporting the accident or subsequently at the request of the employer or the Director-General, furnish information and documents as may be prescribed or as the employer or the Director-General may require.  
+(2) An employer shall within seven working days after receiving a claim, medical report or other documents or information concerning the claim, send the claim report, documents or information to the Director-General.
+
+---
+
+**Employee to submit to medical examination**
+
+38.-(1) An employee who claims compensation or to whom compensation has been paid or payable shall, if required by the Director-General and after reasonable notice, submit himself to be examined by a medical practitioner appointed by the Director-General at the time and place mentioned in the notice.  
+(2) Any expenses incurred by an employee in order to comply with the provisions of subsection (1) which the Director-General may deem necessary and reasonable, and the prescribed remuneration for a medical examination under this section, shall be paid by the Director-General.  
+(3) Where in the opinion of the appointed medical practitioner, the employee is not capable of calling upon the medical practitioner appointed by the Director-General, the medical practitioner shall inform the Director-General, and he shall examine the employee at another time and place as may be agreed between the Director-General and medical practitioner.  
+(4) An employee shall be entitled at his own expense to have a medical practitioner of his choice present at an examination by the appointed medical practitioner.
+
+---
+
+**Claim for compensation**
+
+39.-(1) A claim for compensation shall be lodged by or on behalf of the claimant in a prescribed form to the Director-General within twelve months after the date of the accident or the date of death.  
+(2) Where a claim for compensation is not lodged within the period stipulated in subsection (1), the claim shall not be considered under this Act, except where the accident concerned has been reported under sections 34 or 35.  
+(3) Notwithstanding subsection (2), a claim for compensation by any employee in an aircraft or on board of a ship may be lodged with the person in command of the aircraft or ship concerned.  
+(4) Where any employee referred to in subsection (3) meets with an accident outside Tanzania resulting in death, a claim for compensation shall be instituted within twelve months after news of the death has been received by any dependant claiming compensation.  
+(5) The provisions of section 33 shall apply, mutatis mutandis, to any failure to institute a claim or in respect of any error or inaccuracy in a claim instituted.
+
+---
+
+**Prescription of claim for compensation**
+
+40.-(1) A right to compensation shall lapse if the accident in question is not brought to the attention of the Director-General within twelve months after the date of the accident.  
+(2) A right to compensation under this Act shall lapse if any occupational disease is not brought to the attention of the Director-General within twelve months from the occurrence of that disease.  
+(3) For the purpose of this Act the occurrence of an accident or occupational disease shall be deemed to be the date on which a medical practitioner diagnosed the disease for the first time and notified the employee of the diagnosis or such earlier date as the Director-General may determine.
+
+---
+
+**Consideration of claim by the Director-General**
+
+41.-(1) The Director-General shall decide on any claim for compensation, and for that purpose may-  
+(a) carry out any inquiry; or  
+(b) formally hear the claim.  
+(2) Where the Director-General decides upon a formal hearing, he shall give notice of the date, time and place of the hearing to the claimant and the employer in the prescribed manner.  
+(3) The Director-General-  
+(a) may adjourn a formal hearing to another date, time and place; and  
+(b) shall keep or cause to be kept a record of the proceedings as a formal hearing.  
+(4) The Director-General shall, upon payment of the prescribed fees, provide any person with a copy of the record.
+
+---
+
+**Appearance of parties at formal hearing**
+
+42.-(1) Every party or
+
+ his representative to a claim for compensation shall appear before the Director-General at a formal hearing.  
+(2) The Director-General may designate any person with relevant competence to investigate a claim, preside at or attend a formal hearing, cross-examine witnesses, adduce rebutting evidence and present arguments.  
+(3) Notwithstanding subsection (2), the Chief Inspector and all inspectors appointed in accordance with section 5 of the Occupational Health and Safety Act, the Labour Commissioner, the Deputy Labour Commissioner and Labour Officers appointed in accordance with sections 43 and 44 of the Labour Institutions Act may represent a party or any employee for a claim of compensation before the Director-General.
+
+---
+
+**Powers of the Director-General regarding witnesses**
+
+43.-(1) The Director-General may, by written notice, summon any person who-  
+(a) in the opinion of the Director-General is able to give information concerning the subject of any inquiry under this Act; or  
+(b) is suspected to have in his possession, custody or control any book, document or thing which has a bearing on the inquiry to appear before him to be questioned or to produce such book, document or thing.  
+(2) Notwithstanding subsection (1), the Director-General may, upon application by a claimant or employer and by written notice, summon for the appearance of any person as a witness.  
+(3) The Director-General may issue a written notice to summon witness if the applying party deposits a sum sufficient to cover the necessary expenses to be incurred by the witness summoned pursuant to subsection (2) was well as the cost of the service of the notice.  
+(4) Where a person has been summoned to appear under subsection (1) and the Director-General is satisfied that as a result of his appearance he has suffered any pecuniary loss or incurred any expense, the Director-General may pay out of the Fund the prescribed allowances or the amount of the loss or expense, whichever is the lesser.
+
+---
+
+**Power to administer oath**
+
+44. The Director-General or an authorized person may administer an oath to, or accept an affirmation from, any witness summoned under section 43.
+
+---
+
+**Offences by Witnesses etc.**
+
+45.-(1) A person commits an offence if he-  
+(a) has been duly summoned under section 43 and fails without sufficient cause to attend at a time and place specified in the summons;  
+(b) fails to remain in attendance until excused by the Director-General from further attendance;  
+(c) refuses or fails to answer fully and satisfactorily any question lawfully put to him;  
+(d) refuses or fails to produce any book, document or thing in his possession, custody or control which he has been required to produce;  
+(e) hinders or obstructs the Director-General or an assessor in the performance of any of their functions under this section.  
+(2) A person who, after having been sworn as a witness or having made an affirmation, makes a false statement knowing it to be false, commits an offence.  
+(3) The law relating to privilege as applicable to a witness testifying in a court of law shall be applicable at an inquiry under this Act.
+
+---
+
+**Compensation for temporary total or partial disablement**
+
+46.-(1) Compensation for temporary total disablement shall be calculated on the basis of seventy percent of the employee's monthly earnings at the time of the accident, subject to any minimum and maximum amounts as may be set out in regulations made by the Minister.  
+(2) Compensation for temporary partial disablement shall consist of the portion of the amount calculated under subsection (1) and if the Director-General considers it equitable in the circumstances.  
+(3) Notwithstanding any provision of this Act the employer in whose service an employee is at the time of the accident shall be liable for the payment of the compensation referred to in subsection (1), of the first month from the date of accident.  
+(4) After expiry of the first month, the Director-General shall refund the compensation paid by the employer under subsection (3).  
+(5) Any employer who fails to comply with subsection (3) commits an offence and shall on conviction be liable to a fine not exceeding ten million or imprisonment for a term not exceeding seven years.  
+(6) Payment of compensation under subsections (1) and (2) shall take place in the form of periodical payments at such intervals, not exceeding one month, as the Director-General may determine.  
+(7) No periodical payments shall be made in respect of temporary total disablement or temporary partial disablement that lasts for three days or less.  
+(8) Periodical payments shall take place for as long as the temporary total disablement continues, but shall not exceed twenty-four months.  
+(9) Where temporary total disablement continues-  
+(a) for longer than twelve months, the Director-General may order the continuation of the payments for a further period or twelve months; and  
+(b) for more than twenty-four months, the Director-General may treat the disablement as permanent disablement.
+
+---
+
+**Expiry of compensation for temporary total or partial disablement**
+
+47.-(1) The right to compensation for temporary total or partial disablement shall expire-  
+(a) upon the ending of the disablement;  
+(b) if the employee resumes the work in which he was employed at the time of the accident or occurrence of the occupational disease;  
+(c) if the employee resumes any other work at the same or greater earnings; or  
+(d) if the employee is awarded compensation for permanent disablement.  
+(2) Notwithstanding the provisions of subsection (1), the Director-General may award compensation for temporary total or partial disablement if-  
+(a) the disablement of the employee recurs or deteriorates; or  
+(b) the employee receives further medical aid requiring further absence from service, which the Director-General believes shall reduce the employee's disablement.  
+(3) Where the Director-General awards compensation under subsection (2), the Director-General may suspend any pension payments to the employee concerned in respect of the same accident, so long as the employee receives periodical payments for temporary total or partial disablement.
+
+---
+
+**Compensation for permanent disablement**
+
+48.-(1) Where an employee has sustained an injury set out in the second schedule to this Act, he shall, for the purposes of this Act, be deemed to be permanently disabled to the degree set out in the Second Schedule to this Act.  
+(2) Where an employee has sustained an injury not mentioned in the second schedule to this Act which leads to permanent disablement, the Director-General shall determine the percentage of disablement in respect of the injury which he believes shall lead to a result consistent with the Second Schedule.  
+(3) Where an injury referred to in subsections (1) and (2) has unusually serious consequences for an employee as a result of the special nature of the employee's occupation, the Director-General may determine a higher percentage not exceeding fifty percent of the normal rate, as he deems equitable.  
+(4) Compensation for permanent disablement shall be paid, subject to the minimum and maximum amounts set out in regulations made by the Minister if-  
+(a) the employee is one hundred percent permanently disabled, a monthly pension based on seventy percent of the employee's monthly earnings at the time of the accident; or  
+(b) the employee is less than one hundred percent permanently disabled, the percentage of the monthly pension provided in paragraph (a) proportionate to the degree of permanent disability of the employee.  
+(5) No payment for temporary total or partial disablement shall be deducted from compensation payable under this section.  
+(6) For the purposes of this section "monthly pension" means a pension payable monthly during the lifetime of the employee and which expires at the end of the month in which the employee dies.
+
+---
+
+**Payment of lump sum in lieu of pension**
+
+49.-(1) Where a pension does not exceed the prescribed amount set out in the regulations made by the Minister, the Director-General may, upon application by a pensioner, pay or direct the payment of a lump sum in lieu of that pension or a portion of that pension.  
+(2) Where a pension exceeds the prescribed amount, the Director-General may, upon application by a pensioner, in lieu of a portion of that pension not exceeding the prescribed amount, pay or direct the payment of a lump sum.  
+(3) Where a pension payable under this Act is less than the prescribed amount per month, the Director-General may decide to pay or direct the payment of a lump sum in lieu of the whole of the pension.  
+(4) No pension or portion of a pension due to a child shall be paid in a lump sum.  
+(5) Any lump sum to be paid under this section shall be as prescribed in the regulations made by the Minister.
+
+---
+
+**Compensation to an employee who has previously received compensation**
+
+50.-(1) In awarding compensation to an employee or reviewing it in respect of permanent disablement, the Director-General may take into account any compensation awarded to the employee as provided under this Act or any other law as a result of permanent disablement.  
+(2) Where an employee who has received compensation for permanent disablement subsequently meets with an accident resulting in further permanent disablement in respect of which compensation is payable under this Act, the Director-General may calculate the employee's compensation on the basis of the earnings that the employee received at the time of any of the accidents.  
+(3) An employee shall not be paid compensation in the form of a pension under this Act that exceeds the pension payable in respect of one hundred percent disablement.
+
+---
+
+**Constant Attendant care grants**
+
+51. Where the injury or disease in respect of which compensation is payable under this Act causes disablement that renders the employee unable to perform essential functions of his life without the constant attendant care of another person, the Director-General may, in addition to any other compensation, grant an allowance towards the cost of the care.
+
+---
+
+**Dependents' grants if an employee dies**
+
+52.-(
+
+1) Where an employee dies as a result of an accident or an occupational disease, compensation shall be payable to the dependants of the employee.  
+(2) Compensation payable to dependants under this section shall be a monthly pension that is proportionate to the monthly earnings of the deceased employee as set out in regulations made by the Minister, subject to a minimum and maximum amount.  
+(3) The proportion of the compensation shall be calculated on the basis of the degree of financial dependence of each dependant on the employee at the time of the employee's death as set out in the First Schedule to this Act.  
+(4) The monthly pension payable under subsection (1) shall, where the deceased employee leaves-  
+(a) a spouse, be twenty percent of the pension payable to the deceased employee;  
+(b) more than one spouse, be twenty percent of the pension payable to the deceased employee for the benefit of the spouses in equal shares;  
+(c) a child or children, be forty percent of the pension payable to the deceased employee; and  
+(d) a parent or parents or other dependants, be twenty percent of the pension payable to the deceased employee.  
+(5) Where there is no spouse or child, the pension payable under subsection (1) shall be fifty percent of the pension payable to the deceased employee.  
+(6) Where an employee dies as a result of an accident that was attributable to the serious and willful misconduct of the employee, the Director-General may, on behalf of the Fund, pay the whole or any portion of the cost of medical aid incurred by the deceased employee as a result of the accident.
+
+---
+
+**Funeral grants**
+
+53.-(1) Where an employee dies as a result of an accident or an occupational disease, a funeral grant shall be paid out of the Fund to meet the cost of burial, including the cost of transporting the deceased from the place of death to the place of burial.  
+(2) The amount of the funeral grant payable under subsection (1) shall be as prescribed in the regulations made by the Minister.
+
+---
+
+**Increase of monthly pensions**
+
+54. The Director-General may, at any time, increase the amount of monthly pensions payable under this Act in accordance with such conditions and criteria as may be prescribed in regulations made by the Minister.
+
+---
+
+**Advances on compensation**
+
+55.-(1) The Director-General may, at any time, make an advance of compensation in respect of medical aid, periodical payments or a lump sum to an employee or a dependant of the employee.  
+(2) Any advance made under subsection (1) shall be deducted from the total amount of compensation payable under this Act.
+
+---
+
+**Control over payment of compensation**
+
+56.-(1) Where the Director-General believes that an employee or a dependant of the employee is, by reason of any physical or mental incapacity or any other cause, unable to manage his own affairs, the Director-General may-  
+(a) pay the compensation to the trustee or manager of the employee or dependant;  
+(b) order that the compensation be applied in such manner as he may direct for the benefit of the employee or dependant;  
+(c) pay the compensation to any other person who, in the opinion of the Director-General, is able to administer it for the benefit of the employee or dependant; or  
+(d) pay the compensation to a parent or guardian of the employee or dependant.  
+(2) The Director-General may require any trustee, manager or other person to whom the compensation is paid under this section to render to him a statement of accounts of any money received or paid out and to provide such further information as the Director-General may require.
+
+---
+
+**Pensioner resident outside Tanzania**
+
+57.-(1) Where a person in receipt of a pension under this Act leaves Tanzania, the Director-General may, in lieu of the whole or any portion of the pension, pay or direct the payment of a lump sum equal to the capitalized value of the whole or portion of the pension as may be determined by the Director-General.  
+(2) No pension shall be paid to a person referred to in subsection (1) after the expiry of the period in respect of which the lump sum has been paid.
+
+---
+
+**Manner of calculating earnings**
+
+58.-(1) Earnings shall be calculated as set out in this section.  
+(2) Where the employee has been employed by the employer for a continuous period of not less than twelve months immediately preceding the date of the accident, his monthly earnings shall be-  
+(a) in the case of a monthly paid employee, the amount paid to him by the employer for the month immediately preceding the accident;  
+(b) in the case of an employee paid weekly, the weekly earnings multiplied by four and one-third; and  
+(c) in the case of an employee paid at any other intervals, the average monthly earnings during the twelve months immediately preceding the accident or during the period of his employment, whichever is the lesser.  
+(3) Where the employee has been employed for a continuous period of less than twelve months immediately preceding the date of the accident, his monthly earnings shall be-  
+(a) in the case of a monthly paid employee, the amount paid to him by the employer for the month immediately preceding the accident;  
+(b) in the case of an employee paid weekly, the weekly earnings multiplied by four and one-third; and  
+(c) in the case of an employee paid at any other intervals, the average monthly earnings during the period of his employment.  
+(4) Where the employee was employed for a continuous period of less than one month immediately preceding the date of the accident, his monthly earnings shall be-  
+(a) in the case of a monthly paid employee, the amount paid to him by the employer for the month immediately preceding the accident;  
+(b) in the case of an employee paid weekly, the weekly earnings multiplied by four and one-third; and  
+(c) in the case of an employee paid at any other intervals, the average monthly earnings during the period of his employment.  
+(5) For the purposes of subsections (2) to (4), the amount paid to the employee shall include-  
+(a) the actual earnings paid to the employee in cash;  
+(b) the value of any board, lodging or other benefit or advantage supplied by the employer to the employee as part of his remuneration.  
+(6) Where, by reason of the shortness of the time during which the employee has been in the employment of his employer or the casual nature of his employment or the terms of his employment, it is impracticable to compute the earnings in such manner, the Director-General may compute the earnings in such manner as he may deem just and fair.
+
+---
+
+**Calculation of compensation for occupational disease**
+
+59.-(1) The amount of compensation payable in respect of an occupational disease shall be calculated on the basis of the earnings of the employee at the time when he was last employed in an occupation that gave rise to the occupational disease.  
+(2) Where the Director-General believes that the employee was employed in such occupation and that the employee's earnings have diminished as a result of the occupational disease, the amount of compensation shall be calculated on the basis of the employee's monthly earnings immediately before the earnings were so diminished.
+
+---
+
+**Deductions from employees prohibited**
+
+60. No employer shall deduct from the earnings of an employee, directly or indirectly, any part of a payment that the employer is required to make to the Fund or any other amount which the employer is liable to pay under this Act or is liable to pay on behalf of an employee under this Act.
+
+---
+
+**Conveyance of injured employee**
+
+61.-(1) The Director-General shall, for the purposes of this section, designate medical practitioners and health facilities, to provide medical aid to employees who are injured in accidents or who contract occupational diseases.  
+(2) Where an employee meets with an accident resulting in injury, the employer shall, at the expense of the employer, convey the employee to a designated medical practitioner or health facility as soon as possible.  
+(3) Notwithstanding subsection (2), the Director-General shall be responsible for the cost of conveying the injured employee after the first month from the date of the accident.  
+(4) The Director-General may refund the cost of conveying the injured employee to the employer after the first month from the date of the accident.  
+(5) Any employer who fails to comply with the provisions of subsection (2) commits an offence.
+
+---
+
+**Medical aid costs**
+
+62.-(1) The Director-General shall be responsible for the cost of any medical aid necessitated by the injury, disease or disablement arising out of and in the course of employment.  
+(2) Any claim for the cost of medical aid under subsection (1) shall be submitted to the Director-General for approval.  
+(3) For the purposes of this section, "medical aid" means medical, surgical or hospital treatment, skilled nursing services, any remedial treatment approved by the Director-General, the supply and repair of any prosthesis or any device necessitated by disablement, and ambulance services.
+
+---
+
+**Submission of medical report**
+
+63.-(1) A designated medical practitioner or health facility shall submit to the Director-General a medical report on the condition of the employee within fourteen days after the first consultation.  
+(2) The medical report submitted under subsection (1) shall be in the prescribed form and shall contain such particulars as may be required by the Director-General.  
+(3) The Director-General may, by notice in writing, require the designated medical practitioner or health facility to furnish him with a further report within such period and in such manner as the Director-General may specify.  
+(4) A designated medical practitioner or health facility shall submit to the Director-General a final medical report on the condition of the employee within seven days after the conclusion of the treatment.
+
+---
+
+**Director-General to decide on medical aid benefits**
+
+64.-(1) The Director-General shall decide on any matter relating to the medical aid benefits payable under this Act.  
+(
+
+2) The decision of the Director-General on any matter relating to medical aid benefits shall be final and conclusive.
+
+---
+
+**Fees for medical aid**
+
+65.-(1) The Director-General shall determine the fees payable for medical aid provided to an employee under this Act.  
+(2) The fees referred to in subsection (1) shall be in accordance with the prescribed tariffs.
+
+---
+
+**Contributions by employees towards cost of medical aid prohibited**
+
+66. No employer shall require an employee to make any contribution towards the cost of any medical aid provided under this Act.
+
+---
+
+**Medical aid provided by employer**
+
+67.-(1) The Director-General may authorize an employer to provide medical aid to an employee and to recover the cost thereof from the Fund.  
+(2) An employer who is authorized to provide medical aid under subsection (1) shall submit to the Director-General a report on the condition of the employee and the cost of the medical aid provided within fourteen days after the conclusion of the treatment.  
+(3) The Director-General shall refund to the employer the cost of the medical aid provided under subsection (1) after receiving the report referred to in subsection (2).
+
+---
+
+**Director-General may consult representatives of medical authorities and associations**
+
+68. The Director-General may consult representatives of medical authorities and associations in order to determine the reasonableness of the cost of medical aid provided to an employee.
+
+---
+
+**Director-General to provide rehabilitation**
+
+69.-(1) The Director-General shall provide rehabilitation to an employee who is injured in an accident or who contracts an occupational disease, as the case may be.  
+(2) The rehabilitation referred to in subsection (1) shall include medical, surgical or hospital treatment, skilled nursing services, any remedial treatment approved by the Director-General, the supply and repair of any prosthesis or any device necessitated by disablement, and ambulance services.
+
+---
+
+**Director-General may require assessments and rehabilitation plans**
+
+70.-(1) The Director-General may require an employee to undergo an assessment to determine the need for rehabilitation.  
+(2) The Director-General may require an employer to submit a rehabilitation plan for an employee who is injured in an accident or who contracts an occupational disease.  
+(3) The Director-General may approve or reject a rehabilitation plan submitted by an employer under subsection (2).  
+(4) The Director-General may provide any assistance necessary for the implementation of a rehabilitation plan approved under subsection (3).
+
+---
+
+**Employers to register with the Director-General**
+
+71.-(1) Every employer shall register with the Director-General in the prescribed manner.  
+(2) The Director-General shall issue to every employer who registers under subsection (1) a certificate of registration in the prescribed form.  
+(3) Any employer who fails to comply with the provisions of this section commits an offence.
+
+---
+
+**Employers to keep records**
+
+72.-(1) Every employer shall keep records of the earnings of his employees in the prescribed form.  
+(2) The records referred to in subsection (1) shall be kept for a period of not less than seven years from the date of the last entry made in the record.  
+(3) Any employer who fails to comply with the provisions of this section commits an offence.
+
+---
+
+**Employers to furnish returns of earnings**
+
+73.-(1) Every employer shall furnish to the Director-General a return of earnings in the prescribed form.  
+(2) The return of earnings referred to in subsection (1) shall be furnished annually, or at such other intervals as the Director-General may determine.  
+(3) The return of earnings shall contain such particulars as the Director-General may require.  
+(4) Any employer who fails to comply with the provisions of this section commits an offence.
+
+---
+
+**Assessment of an employer**
+
+74.-(1) The Director-General shall assess every employer in the prescribed manner.  
+(2) The assessment shall be based on the earnings of the employees of the employer.  
+(3) The Director-General shall determine the amount of the assessment to be paid by the employer.  
+(4) The amount of the assessment shall be paid to the Director-General within the prescribed period.  
+(5) Any employer who fails to comply with the provisions of this section commits an offence.
+
+---
+
+**Assessment to be paid by an employer to the Director-General**
+
+75.-(1) Every employer shall pay the amount of the assessment to the Director-General in the prescribed manner.  
+(2) The amount of the assessment shall be paid within the prescribed period.  
+(3) Any employer who fails to comply with the provisions of this section commits an offence.
+
+---
+
+**Mandators and contractors**
+
+76.-(1) Where a mandator or contractor enters into a contract for the performance of any work or service, the mandator or contractor shall ensure that the contractor or sub-contractor is registered with the Director-General and has paid the necessary assessments.  
+(2) The mandator or contractor shall be liable for the payment of any assessments due by the contractor or sub-contractor under this Act.  
+(3) The Director-General may recover from the mandator or contractor any assessments due by the contractor or sub-contractor under this Act.  
+(4) The mandator or contractor may recover from the contractor or sub-contractor any assessments paid on behalf of the contractor or sub-contractor under this Act.
+
+---
+
+**Employers or Trade Unions to inform employees of their rights**
+
+77.-(1) Every employer or trade union shall inform the employees of their rights and obligations under this Act.  
+(2) Any employer or trade union who fails to comply with the provisions of this section commits an offence.
+
+---
+
+**Employers to assist employees**
+
+78.-(1) Every employer shall assist the employees in the making of claims for compensation under this Act.  
+(2) Any employer who fails to comply with the provisions of this section commits an offence.
+
+---
+
+**Director-General may review decisions**
+
+79.-(1) The Director-General may review any decision made by him under this Act.  
+(2) The Director-General may, on his own motion or on the application of any person affected by a decision made under this Act, review any decision made by him under this Act.  
+(3) The Director-General may confirm, vary or set aside any decision made by him under this Act.  
+(4) The Director-General shall, upon the review of a decision made by him under this Act, give reasons for his decision.
+
+---
+
+**Appeal against decisions of the Director-General and the Minister**
+
+80.-(1) Any person who is aggrieved by a decision of the Director-General under this Act may, within thirty days from the date of the decision, appeal to the Minister.  
+(2) Any person who is aggrieved by a decision of the Minister under this Act may, within thirty days from the date of the decision, appeal to the Labour Court.  
+(3) The Labour Court may confirm, vary or set aside any decision made by the Minister under this Act.  
+(4) The Labour Court shall, upon the review of a decision made by the Minister under this Act, give reasons for its decision.
+
+---
+
+**Application of funds**
+
+81. The funds of the Fund shall be applied to-  
+(a) the payment of compensation under this Act;  
+(b) the payment of medical aid under this Act;  
+(c) the payment of allowances under this Act;  
+(d) the payment of any other expenses incurred in the administration of this Act; and  
+(e) any other purpose which the Director-General may determine.
+
+---
+
+**Bank accounts of the Fund**
+
+82.-(1) The Director-General shall open and maintain such bank accounts as may be necessary for the performance of the functions of the Fund.  
+(2) The Director-General shall cause to be deposited in the bank accounts referred to in subsection (1)-  
+(a) all assessments paid by employers under this Act;  
+(b) all penalties imposed under this Act;  
+(c) all interest on investments of the Fund; and  
+(d) all other monies legally acquired.
+
+---
+
+**Investment of funds**
+
+83.-(1) The Director-General may invest any funds of the Fund not immediately required for the payment of compensation, medical aid or allowances under this Act.  
+(2) The Director-General shall, in investing the funds of the Fund, have regard to the need for-  
+(a) the maintenance of adequate reserves to meet the obligations of the Fund;  
+(b) the preservation of capital; and  
+(c) the attainment of a reasonable return on the investments.
+
+---
+
+**Annual budget of the Fund**
+
+84.-(1) The Director-General shall prepare and submit to the Minister for approval, an annual budget of the Fund.  
+(2) The annual budget shall contain-  
+(a) an estimate of the income and expenditure of the Fund for the financial year; and  
+(b) any other information as the Minister may require.
+
+---
+
+**Annual report and financial statements of the Fund**
+
+85.-(1) The Director-General shall, within three months after the end of each financial year, prepare and submit to the Minister an annual report on the activities of the Fund during that financial year.  
+(2) The annual report shall include-  
+(a) the financial statements of the Fund for the financial year; and  
+(b) any other information as the Minister may require.  
+(3) The financial statements referred to in subsection (2)(a) shall be audited by the Controller and Auditor-General.
+
+---
+
+**Periodic valuation of the Fund**
+
+86.-(1) The Director-General shall cause a valuation of the assets and liabilities of the Fund to be made by an actuary at intervals of not more than three years.  
+(2) The valuation shall be made in accordance with such principles and methods as the Director-General may determine.  
+(3) The report of the valuation shall be submitted to the Minister and shall be laid before the National Assembly.
+
+---
+
+**Auditing**
+
+87.-(1) The accounts of the Fund shall be audited by the Controller and
+
+ Auditor-General.  
+(2) The Controller and Auditor-General shall, within three months after the end of each financial year, submit a report on the accounts of the Fund to the Minister.
+
+---
+
+**Reasons for decisions**
+
+88.-(1) The Director-General shall give reasons for any decision made by him under this Act.  
+(2) The reasons for a decision made by the Director-General shall be given in writing and shall be communicated to the person affected by the decision.
+
+---
+
+**Evidence**
+
+89.-(1) A document purporting to be signed by the Director-General or an authorized person shall be received in evidence in any court without further proof and shall be presumed, unless the contrary is proved, to have been signed by the Director-General or the authorized person.  
+(2) A copy of a document referred to in subsection (1) shall be presumed, unless the contrary is proved, to be a true copy of the original document.
+
+---
+
+**Compensation payable to assessors, etc.**
+
+90.-(1) The Director-General may pay to any assessor, medical practitioner or other person who is required to perform any function under this Act such remuneration and allowances as may be prescribed.  
+(2) The remuneration and allowances referred to in subsection (1) shall be paid out of the Fund.
+
+---
+
+**Access to information**
+
+91.-(1) Any person may, upon payment of the prescribed fee, have access to any information or document in the possession of the Director-General which is relevant to the administration of this Act.  
+(2) The Director-General may refuse to disclose any information or document if he believes that the disclosure would-  
+(a) prejudice the administration of this Act;  
+(b) prejudice the interests of any person; or  
+(c) be contrary to the public interest.
+
+---
+
+**Disclosure of information**
+
+92. No person shall, without the consent of the Director-General, disclose any information or document which has come to his knowledge or into his possession in the course of the administration of this Act, except-  
+(a) for the purposes of this Act;  
+(b) for the purposes of any criminal proceedings; or  
+(c) where required to do so by any court or under any law.
+
+---
+
+**Amendment of schedules**
+
+93. The Minister may, by order published in the Gazette, amend any Schedule to this Act.
+
+---
+
+**Regulations**
+
+94.-(1) The Minister may make regulations for the better carrying out of the provisions of this Act.  
+(2) Without prejudice to the generality of subsection (1), the Minister may make regulations providing for-  
+(a) the forms to be used and the particulars to be furnished in connection with any notice, claim or application under this Act;  
+(b) the procedure to be followed in the making of claims and applications under this Act;  
+(c) the records to be kept and the returns to be made by employers under this Act;  
+(d) the manner in which assessments shall be made under this Act;  
+(e) the manner in which payments shall be made under this Act;  
+(f) the fees to be paid for any services rendered under this Act;  
+(g) the procedure to be followed in the determination of disputes under this Act;  
+(h) the appointment, functions and powers of authorized persons, assessors and medical advisory panels;  
+(i) the establishment, administration and control of the Fund;  
+(j) the provision of medical aid and rehabilitation services to employees;  
+(k) the assessment of permanent disablement;  
+(l) the procedures to be followed in the management of the financial affairs of the Fund;  
+(m) the protection of the interests of employees and dependants under this Act; and  
+(n) any other matter which is required or permitted to be prescribed under this Act.
+
+---
+
+**False statements**
+
+95.-(1) Any person who, in any claim or application made under this Act, makes any statement which he knows to be false in any material particular, commits an offence.  
+(2) Any person who commits an offence under subsection (1) shall be liable on conviction to a fine not exceeding five million shillings or to imprisonment for a term not exceeding five years or to both such fine and imprisonment.
+
+---
+
+**Penalties**
+
+96.-(1) Any person who contravenes any provision of this Act for which no penalty is provided commits an offence and shall be liable on conviction to a fine not exceeding five million shillings or to imprisonment for a term not exceeding five years or to both such fine and imprisonment.  
+(2) Any person who contravenes any regulation made under this Act for which no penalty is provided commits an offence and shall be liable on conviction to a fine not exceeding five million shillings or to imprisonment for a term not exceeding five years or to both such fine and imprisonment.
+
+---
+
+**Compounding of offences**
+
+97.-(1) The Director-General may, if he is satisfied that any person has committed an offence under this Act, compound the offence by accepting from that person a sum of money not exceeding the amount of the fine to which that person would have been liable if he had been prosecuted and convicted of the offence.  
+(2) The Director-General shall, on compounding an offence under this section, notify the person of the amount to be paid by him and the date on which payment is due.  
+(3) If the amount referred to in subsection (2) is not paid within the period specified by the Director-General, the Director-General may institute legal proceedings against the person in respect of the offence.  
+(4) Where an offence is compounded under this section, no further proceedings shall be taken against the person in respect of the offence.
+
+---
+
+**Repeal and savings**
+
+98.-(1) The Workers' Compensation Act, 2008 is repealed.  
+(2) Notwithstanding the repeal of the Workers' Compensation Act, 2008-  
+(a) anything done or any action taken under the repealed Act shall be deemed to have been done or taken under this Act; and  
+(b) any claim for compensation made under the repealed Act which has not been finally determined or settled before the commencement of this Act may be continued and concluded under this Act.
+
+---
+
+**SCHEDULES**
+
+**First Schedule**  
+(Section 5(3))  
+Composition of the Board
+
+---
+
+**Second Schedule**  
+(Sections 18, 22, 48 and 59)  
+Permanent Disablement
+
+---
+
+**Third Schedule**  
+(Section 22)  
+Occupational Diseases
+
+--- 

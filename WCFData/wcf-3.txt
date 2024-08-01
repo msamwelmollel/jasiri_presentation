@@ -1,0 +1,135 @@
+**WORKERS COMPENSATION FUND**
+
+**ONLINE NOTIFICATION SYSTEM USER GUIDE**
+
+---
+
+**INTRODUCTION**
+
+These guidelines provide guidance to employers on how to access the online notification system through WCF Self-service Portal. It covers the creation of an online account, online notification of occupational accidents, diseases, and deaths, issuance of health service provider notification forms, upload of notification forms, managing reported notifications directory, and other services.
+
+---
+
+**1.0 CREATION OF ONLINE ACCOUNT**
+
+This allows employers to create an online account to access the Fund’s online services available in the portal.
+
+**1.1 Create an Employer Authorized Personnel Account**
+
+**Steps:**
+
+1. Visit our website [www.wcf.go.tz](http://www.wcf.go.tz), hover on the Online Services menu and select Online Notification.
+2. Click on the ‘Register here’ button and fill all the fields on the page that will appear.
+3. Read the disclaimer and tick on the ‘Declaration’ checkbox to agree before proceeding.
+4. After filling all the required fields, click the ‘Register’ button to create an online account.
+5. You will receive a verification token via SMS through the number you have provided. Enter the verification token and click the “confirm” button. You can also confirm your account through the link that will be sent to your email. After confirming, your account will be pending for validation by WCF staff. Once an account has been validated, you will receive a validation notification via SMS and email, and thereafter you will be able to log in using your registered credentials.
+
+**1.2 Add an Authorized Personnel**
+
+This allows an authorized personnel (employer) to add additional users who shall also become authorized personnel.
+
+**Steps:**
+
+1. Select the drop box on the upper right side of the portal.
+2. Click “Add user”.
+3. Fill all the required fields. Please note all fields marked with an asterisk (*) are mandatory.
+4. Click “Create”.
+
+**1.3 Reset Password**
+
+This enables an authorized personnel (employer) to reset a forgotten password.
+
+**Steps:**
+
+1. Click “Forgot password”.
+2. Enter your account email and click “Submit”.
+3. A password recovery link will be sent to your account email, click on the link.
+4. Fill in the required information and then click “Reset Password”.
+
+---
+
+**2.0 ONLINE NOTIFICATION OF OCCUPATIONAL ACCIDENT, DISEASE, AND DEATH**
+
+**Register a New Notification**
+
+This allows an authorized personnel (employer) to register a new notification.
+
+**Requirements:**
+
+1. Scanned copy of Contract of Employment.
+2. Scanned copy of Employee’s Identity Card.
+
+**Steps:**
+
+1. Select ‘Register New’.
+2. Fill Incident Particulars including Incident Type and Employee and click the Continue button.
+3. Fill Incident’s general information, all fields marked with an asterisk (*) are mandatory.
+4. Click ‘Register’ after filling all the required fields.
+5. The system will open Incident Summary, proceed by uploading all the current pending documents.
+6. Click Notify to submit officially the notification for verification and issuance of notification case number.
+7. The system will communicate periodically via SMS and email about the progress of the notification process and benefit status.
+
+**NOTE:**
+
+1. After clicking the Register button, the system will open the notification dashboard showing all the registered information.
+2. For accident and disease notifications, the employer should download the HSP Form for health service provider treatment. The option to download the HSP Form is found as one of the available options on the top menu of the notification profile.
+3. Authorized personnel will be required to upload all the current pending documents as shown on the dashboard before submitting officially the notification to WCF for verification and issuance of the notification case number.
+4. The employer may, if available, upload all pending documents at once or at any time later when available.
+
+---
+
+**3.0 DOCUMENT ATTACHMENT**
+
+This enables an employer to upload all necessary notification attachment forms to support the notification process.
+
+**Requirements:**
+
+1. Scanned copy of all pending documents as shown in the document center.
+
+**Steps:**
+
+1. Select “Reported Notification”.
+2. Search the required notification for the specific employee.
+3. Click on the selected notification entry.
+4. On the incident summary, click Attach Documents, among listed documents, upload the available documents.
+5. Click Upload.
+
+**NOTE:**
+
+Uploaded documents can always be replaced so long as they have not been verified or queried for replacement by WCF.
+
+---
+
+**4.0 MANAGE REPORTED NOTIFICATION**
+
+This allows an authorized personnel (employer) to view the list of reported notifications.
+
+**Steps:**
+
+1. Click the Reported Notification menu.
+2. Search for the requested employee using the employee name or notification case number.
+3. Click on the selected notification entry to open the notification incident summary.
+
+**PLEASE NOTE:**
+
+These instructions should be followed strictly to enable the successful completion of the process.
+
+---
+
+If you encounter any issues kindly contact us for support @ Toll-Free Call Center: 0800 11 00 28 / 0800 11 00 29 or email: [helpdesk@wcf.go.tz](mailto:helpdesk@wcf.go.tz). You can also visit our Head Office or your nearest Labour Office for support.
+
+---
+
+**Issued by:**
+
+Director General,
+
+Workers Compensation Fund (WCF),
+
+P.O. Box 79655 GEPF House,
+
+Bagamoyo Road, Regent Estate – Dar es Salaam.
+
+Tel: +255 22 2926107/ +255 22 2926108.
+
+Fax: +255 22 2926109 Hotline: 0787 923 923.
